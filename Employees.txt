@@ -1,0 +1,5 @@
+Lukas K.; 35; 3000; 1; vyras
+Edita B.; 38; 1500; 0.5; moteris
+Laura U.; 45; 2500; 1; moteris
+Arina V.; 28; 2200; 1; moteris
+Tautvydas V.; 30; 1800; 0.75; vyras
